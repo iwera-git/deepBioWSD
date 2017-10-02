@@ -1,4 +1,4 @@
-# deepBioWSD: deep learning for word sense diambiguation of biomedical textual data
+# deepBioWSD: Deep Learning for Word Sense Diambiguation of Biomedical Textual Data
 
 ## Background
 Word sense ambiguity is a pervasive characteristic of natural language. For example, the word _cold_ has several senses and may refer to a disease, a temperature sensation, or an environmental condition. The specific sense intended is determined by the textual context in which an instance of the ambiguous word appears. In **"I am taking aspirin for my cold"** the disease sense is intended, in _"Let's go inside, I'm cold"_ the temperature sensation sense is meant, while _"It's cold today, only 2 degrees"_, implies the environmental condition sense. Therefore, automatically identifying the intended sense of ambiguous words improves the proper inference of biomedical textual data for clinical and biomedical applications. 
