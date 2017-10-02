@@ -9,4 +9,4 @@ This project, after laying out and developing a novel deep learning model, attem
 ## Project Outcome
 The outcome of this project is directly applicable to a wide range of NLP applications. These applications run the gamut from machine translation, question answering, and information extraction in the given domain; they also cover specific tasks such as detection of adverse drug reactions from social media data and association discovery of diagnosis codes from electronic medical records (EMR).
 
-_**The project is under completion at this moment**_
+_**The project is under completion at this moment.**_
