@@ -7,6 +7,8 @@ Word sense ambiguity is a pervasive characteristic of natural language. For exam
 This project, after laying out and developing a novel deep learning model, attempts to address this crucial problem in NLP. We evaluate the effectiveness of such model over the task of word sense disambiguation (WSD) in the biomedical domain. In brief, the designed network, after being initialized by pre-trained concept vectors (i.e. concept embeddings), would be trained on the biomedical textual data fed to the model. Finally, we test the model on a list of held-out data. As to calculation of pre-trained concept embeddings, we make use of UMLS and MEDLINE abstracts and also employ Pointwise Mutual Information (PMI) and Latent Semantic Analysis (LSA). The experimental result on the WSD dataset shows the developed deep learning model outperforms other common measures in the field in terms of accuracy. 
 
 ## Project Outcome
-The outcome of this project is directly applicable to a wide range of NLP applications. These applications run the gamut from machine translation, question answering, and information extraction in the given domain; they also cover specific tasks such as detection of adverse drug reactions from social media data and association discovery of diagnosis codes from electronic medical records (EMR).
+The outcome of this project is directly applicable to a wide range of NLP applications. These applications run the gamut from machine translation and text summarization to information extraction and query answering in the given domain; they also cover specific tasks such as detection of adverse drug reactions from social media data and association discovery of diagnosis codes from electronic medical records (EMR).
+
 
 _**The project is under completion at this moment.**_
+
