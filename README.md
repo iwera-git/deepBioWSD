@@ -12,3 +12,7 @@ The outcome of this project is directly applicable to a wide range of NLP applic
 
 _**The project is under completion at this moment.**_
 
+<br/>
+<br/>
+
+<sub>IWERA © 2017</sub>
