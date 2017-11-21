@@ -1,4 +1,4 @@
-# deepBioWSD: One-size-fits-all Deep Bidirectional LSTM for Word Sense Diambiguation of Biomedical Textual Data
+# deepBioWSD: A One-size-fits-all Deep Bidirectional LSTM for Word Sense Disambiguation of Biomedical Text Data
 
 ## Background
 Word sense ambiguity is a pervasive characteristic of natural language. For example, the word _cold_ has several senses and may refer to a disease, a temperature sensation, or an environmental condition. The specific sense intended is determined by the textual context in which an instance of the ambiguous word appears. In **"I am taking aspirin for my cold"** the _disease_ sense is intended, in **"Let's go inside, I'm cold"** the _temperature sensation_ sense is meant, while **"It's cold today, only 2 degrees"**, implies the _environmental condition_ sense. Therefore, automatically identifying the intended sense of ambiguous words improves the proper inference of biomedical textual data for clinical and biomedical applications. 
