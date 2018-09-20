@@ -10,7 +10,7 @@ This project addresses the substantial problem of WSD in NLP by introducing and 
 The outcome of this project is directly applicable to a wide range of NLP applications. These applications run the gamut from [machine translation](https://en.wikipedia.org/wiki/Machine_translation) as well as [automatic text summarization](https://en.wikipedia.org/wiki/Automatic_summarization) to [information extraction](https://en.wikipedia.org/wiki/Information_extraction) and [query answering](https://en.wikipedia.org/wiki/Question_answering) in any given domain; they also cover specific tasks such as detection of adverse drug reactions from social media data and association discovery of diagnosis codes from electronic medical records (EMR).
 
 
-_**The project is under completion at this moment.**_
+<!---_**The project is under completion at this moment.**_--->
 
 <br/>
 <br/>
