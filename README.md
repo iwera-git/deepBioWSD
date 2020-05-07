@@ -14,5 +14,3 @@ The outcome of this project is directly applicable to a wide range of NLP applic
 
 <br/>
 <br/>
-
-<sub>IWERA © 2020</sub>
