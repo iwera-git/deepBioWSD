@@ -9,8 +9,37 @@ This project addresses the substantial problem of WSD in NLP by introducing and 
 ## Project Outcome
 The outcome of this project is directly applicable to a wide range of NLP applications. These applications run the gamut from [machine translation](https://en.wikipedia.org/wiki/Machine_translation) as well as [automatic text summarization](https://en.wikipedia.org/wiki/Automatic_summarization) to [information extraction](https://en.wikipedia.org/wiki/Information_extraction) and [query answering](https://en.wikipedia.org/wiki/Question_answering) in any given domain; they also cover specific tasks such as detection of adverse drug reactions from social media data and association discovery of diagnosis codes from electronic medical records (EMR).
 
+## Cite
 
-<!---_**The project is under completion at this moment.**_--->
+Please cite our papers, code, and dataset if you use them in your work.
+
+deepBioWSD paper, and aforementioned code, and dataset:
+```
+@article{pesaranghader2019deepbiowsd,
+  title={deepBioWSD: effective deep neural word sense disambiguation of biomedical text data},
+  author={Pesaranghader, Ahmad and Matwin, Stan and Sokolova, Marina and Pesaranghader, Ali},
+  journal={Journal of the American Medical Informatics Association},
+  volume={26},
+  number={5},
+  pages={438--446},
+  year={2019},
+  publisher={Oxford University Press}
+}
+```
+
+Single Bidirectional LSTM for WSD:
+```
+@inproceedings{pesaranghader2018one,
+  title={One single deep bidirectional LSTM network for word sense disambiguation of text data},
+  author={Pesaranghader, Ahmad and Pesaranghader, Ali and Matwin, Stan and Sokolova, Marina},
+  booktitle={Canadian Conference on Artificial Intelligence},
+  pages={96--107},
+  year={2018},
+  organization={Springer}
+}
+```
+
+<!---_**The project is under further completion at this moment.**_--->
 
 <br/>
 <br/>
