@@ -1,6 +1,13 @@
-# deepBioWSD: A One-size-fits-all Deep Bidirectional LSTM for Word Sense Disambiguation of Biomedical Text Data
+![Language](https://img.shields.io/badge/language-Python-blue.svg)
+![Stars](https://img.shields.io/github/stars/iwera-git/deepBioWSD?color=r)
+![Repo Size](https://img.shields.io/github/repo-size/iwera-git/deepBioWSD?color=tomato)
 
-## Background
+<br>
+<img align="left" src="imgs/dna_logo.png" width="110"> 
+
+## deepBioWSD: Effective Deep Neural Word Sense Disambiguation of Biomedical Text Data
+
+### Background
 With the recent advances in biomedicine, we have a wealth of information hidden in unstructured narratives such as research articles and clinical documents. A high accuracy [Word Sense Disambiguation (WSD)](https://en.wikipedia.org/wiki/Word-sense_disambiguation) algorithm can avoid a myriad of downstream difficulties in the natural language processing (NLP) applications pipeline when we try to mine and exploit this data properly. This is mainly due to the fact that word sense ambiguity is a pervasive characteristic of a natural language; for example, the word _cold_ has several senses and may refer to _a disease_, _a temperature sensation_, or _an environmental condition_. The specific sense intended is determined by the textual context in which an instance of the ambiguous word appears. In **"I am taking aspirin for my cold"** the _disease_ sense is intended, in **"Let's go inside, I'm cold"** the _temperature sensation_ sense is meant, while **"It's cold today, only 2 degrees"**, implies the _environmental condition_ sense. Therefore, automatically identifying the intended sense of ambiguous words improves the proper inference of biomedical text data for clinical and biomedical applications. 
 
 ## deepBioWSD Network
