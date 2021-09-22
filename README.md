@@ -3,7 +3,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/iwera-git/deepBioWSD?color=tomato)
 
 <br>
-<img align="left" src="deepBioWSD_logo.png" width="110"> 
+<img align="left" src="deepBioWSD_logo.png" width="90"> 
 
 ## deepBioWSD: Effective Deep Neural Word Sense Disambiguation of Biomedical Text Data
 
